@@ -13,9 +13,11 @@
   </licenseSets>
 
   <releases>
-    <release version="2.1.1-dev">
+    <release version="2.1.2-dev">
       Active development ...
 
+      Device support:
+      - Updated Flashloader for 16/32/64/128/256K devices
     </release>
     <release version="1.0.0" date="2023-01-12">
       Initial version of STM32C0 Device Family Pack for use with:
